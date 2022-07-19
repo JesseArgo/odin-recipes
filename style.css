@@ -11,3 +11,13 @@
     color: rgb(55, 55, 241);
     text-align: right;
 }
+
+ .list1{
+    color: rgb(255,0,0);
+ }
+
+ .header3{
+    background-color: gray;
+    color: purple;
+    font-size: 28px;
+ }
